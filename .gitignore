@@ -1,0 +1,7 @@
+app/
+modules/
+resources/
+public/_include.php
+
+*.swo
+*.swp
