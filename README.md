@@ -1,6 +1,6 @@
 <p align="center"><a href="https://framework.season.co.kr" target="_blank"><img src="https://www.season.co.kr/resources/theme/img/season_logo.png" width="240"></a></p>
 
-## About Laravel
+## About season-php
 
 season-php is a web application framework designed to maximize productivity. Web frameworks provide the structure and bootstrap for building applications, so developers can focus on creating modern website.
 
