@@ -48,7 +48,7 @@ class fs {
 
     public function readfile ( $path ) {
         if ( $this->exists( $path ) == false ) {
-            throw new ResponseException("File Not Found", 404);
+            throw new Exception("File Not Found", 404);
         }
 
         $fp = fopen( $path , 'r' );
