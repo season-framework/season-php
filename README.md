@@ -7,6 +7,10 @@ season-php is a web application framework designed to maximize productivity. Web
 season-php is designed with a module-based MVC structure, so you can easily compose web pages. Common libraries and configurations are managed in an integrated folder called app, and each page is organized as an independent module, so you can develop intuitively.
 
 
+## Learning season-php
+
+If you want to learn how to use season-php, refer to the [documentation](https://framework.season.co.kr).
+
 ## Bugs and feature requests
 
 Found a bug or have a feature request? [Please open a new issue](https://github.com/season-framework/season-php/issues/new).
